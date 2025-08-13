@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/personal-and-professional-calendar-1963-1972/calendar_frontend"
+}
